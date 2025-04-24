@@ -1,20 +1,16 @@
-# IBM_sample_project
+# Simple Interest Calculator
 
-# 🔢 Prime Number Checker
+This project calculates simple interest based on user-provided values for the principal amount, interest rate, and time.
 
-A super simple Python script with one function: `is_prime(n)` — it checks if a number is prime.
+## How to Use
 
-## 🚀 How to Use
-
-1. Make sure you have **Python 3** installed.
-2. Run the script:
-
-```bash
-python is_prime.py
+1. Clone the repository.
+2. Run the `simple-interest.sh` script using a Unix-based terminal.
+3. Follow the prompts to input values.
 
 ## Technologies Used
 
-- Python
+- Bash Shell
 
 ## License
 
